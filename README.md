@@ -1,7 +1,7 @@
 ## Hi there 👋
 ### Hi, I am yuyuan
 ## 🌱 I’m currently learning AI
-## 🤓 My values
+## 😄 My values
 🍏 Beginner's mindset and curiosity<br>
 🙌 Sharing anything I learned<br>
 
