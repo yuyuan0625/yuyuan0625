@@ -1,6 +1,12 @@
-### Hi there 👋
-#### Hi, I am yuyuan
-### 🌱 I’m currently learning AI
+## Hi there 👋
+### Hi, I am yuyuan
+## 🌱 I’m currently learning AI
+## 🤓 My values
+🍏 Beginner's mindset and curiosity<br>
+🙌 Sharing anything I learned<br>
+
+
+
 <!--
 **yuyuan0625/yuyuan0625** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
