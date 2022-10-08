@@ -4,7 +4,7 @@
 <h3 align="left"> 😄 My values
 <h4 align="left">Beginner's mindset and curiosity<br>
 <h4 align="left">🙌 Sharing anything I learned<br>
-  
+<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuyuan0625&label=Profile%20views&color=0e75b6&style=flat" alt="yuyuan0625" /> </p>
 
 <h3 align="left">Connect with me:</h3>
