@@ -7,7 +7,7 @@
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuyuan0625&label=Profile%20views&color=0e75b6&style=flat" alt="yuyuan0625" /> </p>
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
