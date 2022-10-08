@@ -1,13 +1,9 @@
-## Hi there 👋
-### Hi, I am yuyuan
-
-
 <h1 align="center">Hi 👋, I'm Yuyuan Chen</h1>
-<h3 align="center">I'm major in computer science</h3>
-<h3 align="center">🌱 I’m currently learning AI
-## 😄 My values
-<h3 align="center">Beginner's mindset and curiosity<br>
-<h3 align="center">🙌 Sharing anything I learned<br>
+<h3 align="left">I'm major in computer science</h3>
+<h3 align="left">🌱 I’m currently learning AI
+<h3 align="left"> 😄 My values
+<h4 align="left">Beginner's mindset and curiosity<br>
+<h4 align="left">🙌 Sharing anything I learned<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuyuan0625&label=Profile%20views&color=0e75b6&style=flat" alt="yuyuan0625" /> </p>
 
 <h3 align="left">Connect with me:</h3>
